@@ -1,0 +1,8 @@
+**/*.zip
+**/*.jar
+**/*.tar
+**/*.tar.gz
+**/11.3/documents
+**/software/*
+.idea/
+.DS_Store
